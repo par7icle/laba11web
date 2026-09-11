@@ -1,0 +1,8 @@
+# Local 1C backups and caches
+*.dt
+*.1CD
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
